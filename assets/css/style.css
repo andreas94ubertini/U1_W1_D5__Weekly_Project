@@ -109,7 +109,7 @@
   }
 
   .tile {
-    border: 1px solid lightgrey;
+    border: 1px solid #dee1e3;
     border-radius: 3px;
     width: 85%;
     margin: 7% auto 2% auto;
