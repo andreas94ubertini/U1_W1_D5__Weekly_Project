@@ -134,6 +134,10 @@ header img {
   height: 28vh;
 }
 
+.tile p {
+  margin: 1% auto 7% auto;
+}
+
 /* Stile footer */
 
 footer {
