@@ -77,12 +77,9 @@ header img {
   font-weight: bold;
 }
 
-.mid-container {
-  text-align: center;
-  display: inline-block;
-  width: 100%;
-  padding: 5%;
-  box-sizing: border-box;
+.button:active {
+  color: darkgray;
+  background-color: #f22e0b;
 }
 
 .text-container {
